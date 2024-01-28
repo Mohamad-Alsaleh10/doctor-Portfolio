@@ -1216,7 +1216,7 @@ text-transform: uppercase;
         height: max-content !important;
     }
     .counter-item{
-        font-size: 11px !important;
+        font-size: 18px !important;
         flex: 1;
     }
     .cards-container{
@@ -1376,7 +1376,7 @@ background: #014A7F;
 display: flex;
 justify-content: space-around;
 align-items: center;
-padding: 0;
+padding: 27px;
 
 }
 .counter-item{
@@ -1587,11 +1587,6 @@ text-decoration: none;
 padding: 20px;
 text-decoration: none;
 padding: 20px;
-position: absolute;
-position: absolute;
-top: 80%;
-left: 50%;
-transform: translateX(-50%);
 z-index: 100;
 }
 
